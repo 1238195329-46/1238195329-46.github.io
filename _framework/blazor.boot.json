@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "terraria",
   "resources": {
-    "hash": "sha256-BYGhk5hIT/viTM+MKwxk9gBdTyLorrRqQwv41i7hxJw=",
+    "hash": "sha256-mMZQHDxwgZw2cD1yrO803lsAHPpI/Kax2J5HmJy1rqI=",
     "fingerprinting": {
       "CsvHelper.9hpxi8g9qm.wasm": "CsvHelper.wasm",
       "DepotDownloader.23y07bmejw.wasm": "DepotDownloader.wasm",
@@ -100,9 +100,9 @@
       "System.Xml.Linq.f94siaol93.wasm": "System.Xml.Linq.wasm",
       "System.Xml.ReaderWriter.en1qnqq9tm.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.pr7xdfv8y6.wasm": "System.Xml.XDocument.wasm",
-      "terraria.qr5j2lrvte.wasm": "terraria.wasm",
-      "dotnet.native.mpe9clmyr8.js": "dotnet.native.js",
-      "dotnet.native.ow3yr3r72t.wasm": "dotnet.native.wasm",
+      "terraria.oii0vf81tv.wasm": "terraria.wasm",
+      "dotnet.native.7sazudroob.js": "dotnet.native.js",
+      "dotnet.native.21x9za7yze.wasm": "dotnet.native.wasm",
       "dotnet.native.worker.8u5pbmzur3.mjs": "dotnet.native.worker.mjs",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.rmk48zy1mg.js": "dotnet.runtime.js",
@@ -114,13 +114,13 @@
       "dotnet.native.worker.8u5pbmzur3.mjs": "sha256-MGOYOajw6Ey7SQAnuMqi9dWeUgrj0PdcBBet5GEqTv8="
     },
     "jsModuleNative": {
-      "dotnet.native.mpe9clmyr8.js": "sha256-upKkZToco5lGy7CFrY+wmckOVeoy190gIINKD9wxFOo="
+      "dotnet.native.7sazudroob.js": "sha256-VwOlBEmoHott39n9LZChR5wol3MYtdw/77rCoyX8hQA="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.rmk48zy1mg.js": "sha256-jepmm5WA8+njIiz8BAeIe3uMzalTwgSKVGk61e3ixAw="
     },
     "wasmNative": {
-      "dotnet.native.ow3yr3r72t.wasm": "sha256-N4lV3Vg1D5Tf4raAVUcQZf7y1CfgveFVQW8+DRd3H1k="
+      "dotnet.native.21x9za7yze.wasm": "sha256-ZuBM5+HPkdxrpQ1xKu7gXg8Higc1Vrwkc3ywd5wvk7M="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -225,7 +225,7 @@
       "System.Xml.Linq.f94siaol93.wasm": "sha256-k371/4oiUr1ciBZwkPb4ZPt/dgMionCyHfQi9UUhGAo=",
       "System.Xml.ReaderWriter.en1qnqq9tm.wasm": "sha256-Jna+iRDEBPGIZdlfGQIaZMuwcSyBTcNdCKi4e6aXqc8=",
       "System.Xml.XDocument.pr7xdfv8y6.wasm": "sha256-a6GMQYkBKnCxZdwiRpuIrhoz6ZwpuPAkL7wsDIks4Jg=",
-      "terraria.qr5j2lrvte.wasm": "sha256-CjYamQPtTgmSnaljY10nyEioiB5A3ARm30f+xkiXIiI="
+      "terraria.oii0vf81tv.wasm": "sha256-QMeFbeH7L4qbLffn04i3ezBa4naP7Vfc09P2hqaCsFQ="
     },
     "assembly": {}
   },
