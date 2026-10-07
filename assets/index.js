@@ -317,6 +317,11 @@ ${n.stack}`:r}function getArrayJsValueFromWasm0(n,e){n=n>>>0;const t=getDataView
 			display: none;
 		}
 
+		/* the game draws its own cursor */
+		canvas.started {
+			cursor: none;
+		}
+
 		div {
 			font-size: 2rem;
 			font-weight: 570;

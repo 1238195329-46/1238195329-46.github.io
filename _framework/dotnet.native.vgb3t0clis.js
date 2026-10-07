@@ -2093,7 +2093,7 @@ var GL = {
    }
    canvas.getContext = fixedGetContext;
   }
-  var ctx = canvas.getContext("webgl2", webGLContextAttributes);
+  webGLContextAttributes.desynchronized=true;webGLContextAttributes.powerPreference="high-performance";var ctx = canvas.getContext("webgl2", webGLContextAttributes);
   if (!ctx) return 0;
   var handle = GL.registerContext(ctx, webGLContextAttributes);
   return handle;
